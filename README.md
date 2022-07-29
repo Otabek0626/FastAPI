@@ -7,4 +7,5 @@ env.py should be changed accordingly
 create models
 
 $ alembic revision --autogenerate -m "initial"
+
 $ alembic upgrade head
